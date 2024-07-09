@@ -1,1 +1,1 @@
-console.log('hello, webpack-plugin')
+console.log('hello, webpack-plugin', CONFIG)
